@@ -1,8 +1,6 @@
 /* 
- * Robot Jet Action
- * Commodore 64 Arcade-like game
- * Development started on 2020.04.15 
- * by Tomasz 'Carrion' Mielnik / Bonzai / C64Portal.pl 
+ * Invitation intro for Moonshine Dragons and Teddy Beer parties
+ * (c) 2022 by Carrion / C64portal.
  *
  * nmi.c
  * RUNStop + Restore handler. Included by all screens. 
