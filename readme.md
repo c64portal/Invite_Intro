@@ -1,6 +1,9 @@
 
 # Invite Intro 
 
+![color picker](https://csdb.dk/gfx/releases/214000/214452.gif)
+
+
 This is a source code and resources of the small invitation intro for for the Commodore C64.
 
 This program was created as a invitation for Moonshine Dragons and Teddy Beer parties in 2022.
